@@ -411,11 +411,10 @@ pytest --cov=src tests/
 
 - **作者**：Yimin Du, Guolin Tang
 - **邮箱**：sa613403@mail.ustc.edu.cn, guolin_tang@163.com
-- **项目主页**：https://github.com/your-username/complexity-market-efficiency
+- **项目主页**：https://github.com/initial-d/ccme
 
 ## 🙏 致谢
 
-- 感谢中国科学技术大学提供的研究支持
 - 感谢Wind金融终端提供的数据支持
 - 感谢开源社区提供的优秀工具和库
 

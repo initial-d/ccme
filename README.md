@@ -422,14 +422,7 @@ pytest --cov=src tests/
 
 如果您在研究中使用了本项目，请引用我们的论文：
 
-```bibtex
-@article{du2024computational,
-  title={Computational Complexity and Market Efficiency: A Machine Learning Approach to Information Processing in Financial Markets},
-  author={Du, Yimin and Tang, Guolin},
-  journal={IEEE Conference on Computational Intelligence for Financial Engineering and Economics},
-  year={2024}
-}
-```
+
 
 ## 🔄 更新日志
 

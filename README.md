@@ -16,7 +16,7 @@
 ## 📁 项目结构
 
 ```
-complexity-market-efficiency/
+ccme/
 ├── README.md
 ├── requirements.txt
 ├── kolmogorov_calculator.py          # Kolmogorov复杂度计算

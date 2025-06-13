@@ -85,8 +85,8 @@ complexity-market-efficiency/
 
 1. **克隆仓库**
 ```bash
-git clone https://github.com/your-username/complexity-market-efficiency.git
-cd complexity-market-efficiency
+git clone https://github.com/initial-d/ccme.git
+cd ccme
 ```
 
 2. **创建虚拟环境**

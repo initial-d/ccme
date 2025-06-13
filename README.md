@@ -16,7 +16,7 @@
 ## 📁 项目结构
 
 ```
-ccme/
+ccme/src/
 ├── README.md
 ├── requirements.txt
 ├── kolmogorov_calculator.py          # Kolmogorov复杂度计算
